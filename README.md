@@ -1,1 +1,5 @@
-# practicas_javascript
+# Prácticas JavaScript
+
+Listado:
+
+- Imprimir en Consola
